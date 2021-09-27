@@ -4,12 +4,12 @@ Estas son las plantillas en las que basaremos el desarrollo de la aplicación m�
 
 # NO HAGAN COMMIT A LA RAMA MASTER
 
-### Condiciones
+## Condiciones
 
-    - No compartan el código a personas que son integrantes del equipo
-    - No hagan commit en la rama master
-    - Hagan y suban cambios solo los días de commit
-    - Comenten bien su código y detallen su commit
+- No compartan el código a personas que son integrantes del equipo
+- No hagan commit en la rama master
+- Hagan y suban cambios solo los días de commit
+- Comenten bien su código y detallen su commit
 
 ### 💻 Partes a tomar
 
@@ -19,6 +19,11 @@ Estas son las plantillas en las que basaremos el desarrollo de la aplicación m�
 - Widgets de Language Learning
 - Paleta de colores del repositorio
 - Calendario de AirBnB Redesign
+
+## Repositorios y diseños
+
+Los diseños de la aplicación y los archivos de adobe XD los encuentran en la siguiente liga:
+[Repositorio Drive](https://drive.google.com/drive/folders/1AFy-v5NJHM3TExPTEgMx9ZPzX2veFwtZ?usp=sharing)
 
 ### Screenshots
 
