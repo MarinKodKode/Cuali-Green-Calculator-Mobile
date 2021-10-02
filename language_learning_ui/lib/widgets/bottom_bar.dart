@@ -37,6 +37,12 @@ class BottomBar extends StatelessWidget {
             FlutterIcons.user_fea,
           ),
         ),
+        BottomNavigationBarItem(
+          label: "",
+          icon: Icon(
+            FlutterIcons.user_fea,
+          ),
+        ),
       ],
     );
   }
