@@ -1,0 +1,40 @@
+name: flutter_login_ui
+description: A new Flutter Login Registration App Ui Design.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  meta: ^1.7.0
+  firebase_core: ^1.7.0
+  firebase_auth: ^3.1.3
+  flutter_auth_buttons: ^0.10.0
+  google_sign_in: ^5.1.1
+  cupertino_icons: ^1.0.2
+  hexcolor: ^2.0.4
+  font_awesome_flutter: ^9.1.0
+  otp_text_field: ^1.1.1
+  flutter_meedu: ^4.2.1
+  freezed: ^0.15.0+1
+  get: ^4.3.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  freezed_annotation: ^0.15.0
+  build_runner: ^2.1.4
+
+flutter:
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/
+
